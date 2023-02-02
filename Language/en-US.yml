@@ -1,0 +1,18 @@
+en-US:
+ STR_LV1: "+5% to all stats"
+ STR_LV2: "+10% to all stats"
+ STR_LV3: "+15% to all stats"
+ STR_LV4: "+20% to all stats"
+ STR_LV5: "+25% to all stats"
+ STR_LV_FINAL: "+50% to all stats"
+ STR_RESURRECTION: "Solider Resurrection"
+ STR_ASTARTES: "Spartan"
+ STR_LV1_MIL: "+5% to military stats"
+ STR_LV2_MIL: "+10% to military stats"
+ STR_LV3_MIL: "+15% to military stats"
+ STR_LV4_MIL: "+20% to military stats"
+ STR_LV5_MIL: "+25% to military stats"
+ STR_LVFINAL_MIL: "+50% to military stats"
+ STR_ELFRIEND: "Elfriend Plush"
+ STR_YUKIMIN: "Yukimin Plush"
+ 

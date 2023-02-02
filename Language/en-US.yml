@@ -15,4 +15,9 @@ en-US:
  STR_LVFINAL_MIL: "+50% to military stats"
  STR_ELFRIEND: "Elfriend Plush"
  STR_YUKIMIN: "Yukimin Plush"
- 
+ STR_PSI_1: "+5% to PSI stats"
+ STR_PSI_2: "+10% to PSI stats"
+ STR_PSI_3: "+15% to PSI stats"
+ STR_PSI_4: "+20% to PSI stats"
+ STR_PSI_5: "+25% to PSI stats"
+ STR_PSI_6: "+50% to PSI stats"

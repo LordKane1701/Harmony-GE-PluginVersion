@@ -21,3 +21,5 @@ en-US:
  STR_PSI_4: "+20% to PSI stats"
  STR_PSI_5: "+25% to PSI stats"
  STR_PSI_6: "+50% to PSI stats"
+ STR_REPOSITORY_QSC: "Quantum Storage Cube"
+ STR_SALVAGE_QSC: "Salvage: Quantum Storage Cube"

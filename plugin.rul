@@ -1,18 +1,78 @@
 items:
   - type: STR_ELFRIEND
     size: 1 
-    costSell: 150000
-    costBuy: 5000
+    costSell: 150500
+    costBuy: 9000
   - type: STR_YUKIMIN
     size: 1 
-    costSell: 105000
-    costBuy: 5000
+    costSell: 105500
+    costBuy: 9000
   - type: STR_REPOSITORY_QSC
     listOrder: 5285
     size: 0.2
     costBuy: 486000
     costSell: 0
     categories: [STR_CAT_UFO_COMPONENTS]
+  - type: STR_DATA_CANISTER_SS
+    costSell: 10
+  - type: STR_DATA_CANISTER_CO
+    costSell: 10
+  - type: STR_DATA_CANISTER_PA
+    costSell: 10
+  - type: STR_DATA_CORE_MS
+    costSell: 10
+  - type: STR_DATA_CORE_LS
+    costSell: 10
+  - type: STR_DATA_CORE_CS
+    costSell: 10
+  - type: STR_DATA_CORE_AB
+    costSell: 10
+  - type: STR_DATA_CORE_HV
+    costSell: 10
+  - type: STR_DATA_CORE_TS
+    costSell: 10
+  - type: STR_DATA_CORE_SS
+    costSell: 10
+  - type: STR_DATA_CORE_BS
+    costSell: 10
+  - type: STR_DATA_CORE_MO
+    costSell: 10
+  - type: STR_DATA_CORE_LD
+    costSell: 10
+  - type: STR_DATA_CORE_MD
+    costSell: 10
+  - type: STR_DATA_CORE_HD
+    costSell: 10
+  - type: STR_DATA_CAPSULE_MS
+    costSell: 10
+  - type: STR_DATA_CAPSULE_LS
+    costSell: 10
+  - type: STR_DATA_CAPSULE_CS
+    costSell: 10
+  - type: STR_DATA_CAPSULE_AB
+    costSell: 10
+  - type: STR_DATA_CAPSULE_HV
+    costSell: 10
+  - type: STR_DATA_CAPSULE_TS
+    costSell: 10
+  - type: STR_DATA_CAPSULE_SS
+    costSell: 10
+  - type: STR_DATA_CAPSULE_BS
+    costSell: 10
+  - type: STR_DATA_CAPSULE_MO
+    costSell: 10
+  - type: STR_DATA_CAPSULE_LD
+    costSell: 10
+  - type: STR_DATA_CAPSULE_MD
+    costSell: 10
+  - type: STR_DATA_CAPSULE_HD
+    costSell: 10
+  - type: STR_DATA_CACHE_TS
+    costSell: 10
+  - type: STR_DATA_CACHE_AO
+    costSell: 10
+  - type: STR_DATA_CACHE_AB
+    costSell: 10
 
 soldierTransformation:
   - name: STR_LV1
@@ -1534,43 +1594,43 @@ research:
 
   - name: STR_OUTSOURCING
     listOrder: 3100
-    cost: 25
-    points: -6
+    cost: 50
+    points: -250
     dependencies:
       - STR_OUT_OUT
       - STR_ALIEN_ALLOYS
   - name: STR_OUTSOURCING_GWEAPONS
     listOrder: 3110
-    cost: 25
-    points: -13
+    cost: 100
+    points: -500
     dependencies:
       - STR_OUTSOURCING
       - STR_WEP_OUT
   - name: STR_OUTSOURCING_ARMOR
     listOrder: 3120
-    cost: 25
-    points: -9
+    cost: 150
+    points: -600
     dependencies:
       - STR_OUTSOURCING
       - STR_ARM_OUT
   - name: STR_OUTSOURCING_AIR
     listOrder: 3130
-    cost: 25
-    points: -15
+    cost: 250
+    points: -900
     dependencies:
       - STR_OUTSOURCING
       - STR_AIR_OUT
   - name: STR_OUTSOURCING_TANKS
     listOrder: 3140
-    cost: 25
-    points: -12
+    cost: 175
+    points: -125
     dependencies:
       - STR_OUTSOURCING
       - STR_HWP_OUT
   - name: STR_OUTSOURCING_EQUIPMENT
     listOrder: 3150
-    cost: 25
-    points: -11
+    cost: 50
+    points: -100
     dependencies:
       - STR_OUTSOURCING
       - STR_EQP_OUT
@@ -1714,8 +1774,8 @@ manufacture:
 
 
 vars:
-costEngineer: 22500
-costScientist: 25000
+costEngineer: 20500
+costScientist: 20000
 initialFunding: 9000
 performanceBonusFactor: 475
 buildInfiltrationBaseCloseToTheCountry: true
